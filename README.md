@@ -19,3 +19,5 @@ Network Engineer | Programmer | Tech Learner
 ## 📫 Contact
 - ✉️ Email: deandrawiguna@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/deandrawiguna](https://linkedin.com/in/deandrawiguna)
+![GitHub followers](https://img.shields.io/github/followers/deandrawiguna?style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deandrawiguna&layout=compact)
